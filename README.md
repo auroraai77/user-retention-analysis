@@ -94,14 +94,6 @@ This project demonstrates the ability to:
 
 ---
 
-## 10. How This Project Can Be Used in a CV
-**Junior Data Analyst – Portfolio Project**
-- Conducted user behavior and retention analysis using SQL and Excel
-- Built dashboards to track churn and engagement KPIs
-- Delivered data‑driven product recommendations
-
----
-
 ## 11. Repository Structure (GitHub)
 ```
 user-retention-analysis/
